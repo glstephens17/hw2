@@ -19,18 +19,6 @@
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="/">Home</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="post.php">Post</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="post-result.php">Post Result</a>
-        </li> 
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="get.php">Get</a>
-        </li> 
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="get-result.php">Get Result</a>
-        </li>      
       </ul>
     </div>
   </div>
