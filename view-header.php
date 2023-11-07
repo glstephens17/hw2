@@ -68,21 +68,6 @@ window.alert(JavaScript Practice);
 </html>
         <!DOCTYPE html>
         <!DOCTYPE html>
-<html>
-<body>
-
-<h2>JavaScript Alert</h2>
-
-<button onclick="myFunction()">Try it</button>
-
-<script>
-function myFunction() {
-  alert("Learning is fun!");
-}
-</script>
-
-</body>
-</html>
       </ul>
     </div>
   </div>
