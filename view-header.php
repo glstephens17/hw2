@@ -58,7 +58,7 @@ document.getElementById("demo").innerHTML = "My First JavaScript";
 <html>
 <body>
 
-<h2>Practice makes better</h2>
+<h2>     Practice makes better</h2>
 
 <script>
 window.alert(JavaScript Practice);
