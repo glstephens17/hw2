@@ -60,8 +60,7 @@ document.getElementById("demo").innerHTML = "My First JavaScript";
 <html>
 <body>
 
-<h2>My First Web Page</h2>
-<p>My first paragraph.</p>
+<h2>Practice makes better</h2>
 
 <script>
 window.alert(5 + 6);
