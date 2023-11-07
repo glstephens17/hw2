@@ -46,8 +46,6 @@ Click me to display Date and Time.</button>
 <html>
 <body>
 
-<h2>JavaScript in Body</h2>
-
 <p id="demo"></p>
 
 <script>
