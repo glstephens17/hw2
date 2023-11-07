@@ -27,7 +27,7 @@
         <button class="button-with-margin" onclick="showAlert()">Try it</button>
 
         <h2>JavaScript Timing</h2>
-        <p>Click "Try it". Wait 3 seconds, and the page will alert "Hello".</p>
+        <p>Click "Try it". Wait 3 seconds, and the page will alert "Thank you for waiting!".</p>
         <button class="button-with-margin" onclick="delayedAlert()">Try it</button>
     </div>
 
