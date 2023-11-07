@@ -42,7 +42,23 @@ Click me to display Date and Time.</button>
 
 </body>
 </html> 
+        <!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript in Body</h2>
+
+<p id="demo"></p>
+
+<script>
+document.getElementById("demo").innerHTML = "My First JavaScript";
+</script>
+
+</body>
+</html> 
+
       </ul>
     </div>
   </div>
 </nav>
+      
