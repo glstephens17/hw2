@@ -42,5 +42,23 @@
             }, 3000);
         }
     </script>
+    <!DOCTYPE html>
+<html>
+<body>
+
+<h1>JavaScript Dates</h1>
+<h2>Using new Date()</h2>
+
+<p>100000000000 milliseconds from January 01 1970 UTC is:</p>
+<p id="demo"></p>
+
+<script>
+const d = new Date(100000000000);
+document.getElementById("demo").innerHTML = d;
+</script>
+
+</body>
+</html>
+
 </body>
 </html>
