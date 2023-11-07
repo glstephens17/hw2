@@ -64,7 +64,6 @@ document.getElementById("demo").innerHTML = "My First JavaScript";
 
 <script>
 window.alert(JavaScript Practice);
-  window.alert2(Wish Me Luck!);
 </script>
 
 </body>
