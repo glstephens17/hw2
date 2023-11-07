@@ -26,7 +26,7 @@
 
 <p id="demo">JavaScript can change the style of an HTML element.</p>
 
-<button type="button" onclick="document.getElementById('demo').style.fontSize='35px'">Click Me!</button>
+<button type="button" onclick="document.getElementById('demo').style.fontSize='25px'">Click Me!</button>
 
 </body>
 </html> 
@@ -79,7 +79,7 @@ window.alert(5 + 6);
 
 <script>
 function myFunction() {
-  alert("I am an alert box!");
+  alert("Learning is fun!");
 }
 </script>
 
