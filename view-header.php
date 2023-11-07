@@ -26,7 +26,7 @@
 
 <p id="demo">JavaScript can change the style of an HTML element.</p>
 
-<button type="button" onclick="document.getElementById('demo').style.fontSize='25px'">Click Me!</button>
+<button type="button" onclick="document.getElementById('demo').style.fontSize='25px'">Click to enlarge font!</button>
 
 </body>
 </html> 
