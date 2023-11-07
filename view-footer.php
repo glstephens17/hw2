@@ -21,13 +21,13 @@ function myFunction() {
 
 <h2>JavaScript Timing</h2>
 
-<p>Click "Try it". Wait 3 seconds, and the page will alert "Hello".</p>
+<p>Click "Try it". Wait 3 seconds, and the page will alert "Hello, thanks for waiting".</p>
 
 <button onclick="setTimeout(myFunction, 3000);">Try it</button>
 
 <script>
 function myFunction() {
-  alert('Hello 1');
+  alert('Hello');
 }
 </script>
 
