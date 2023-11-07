@@ -27,7 +27,7 @@
         <button class="button-with-margin" onclick="showAlert()">Try it</button>
 
         <h2>JavaScript Timing</h2>
-        <p>Click "Try it". Wait 3 seconds, and the page will alert "Thank you for waiting!".</p>
+        <p>Click "Try it". Wait 3 seconds, and the page will alert "Hello".</p>
         <button class="button-with-margin" onclick="delayedAlert()">Try it</button>
     </div>
 
@@ -38,7 +38,7 @@
 
         function delayedAlert() {
             setTimeout(function() {
-                alert('Hello');
+                alert('Hello! Thank you for waiting!');
             }, 3000);
         }
     </script>
