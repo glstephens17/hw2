@@ -27,7 +27,7 @@ function myFunction() {
 
 <script>
 function myFunction() {
-  alert('Hello');
+  alert('Hello 1');
 }
 </script>
 
